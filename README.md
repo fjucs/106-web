@@ -8,7 +8,7 @@
 
 * [link](http://oj.rish.com.tw/)
 
-by [rish](rish.com.tw)
+by [rish](http://rish.com.tw/)
 
 ![](https://i.imgur.com/oV0am8t.png)
 
