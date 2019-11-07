@@ -1,4 +1,6 @@
 # 106-web
+Web基本原理與技術
+* 教授: 梅興
 
 [共筆](https://hackmd.io/F7iqNOdkTjixO-rgN_Zi8Q)
 
