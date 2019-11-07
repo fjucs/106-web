@@ -6,8 +6,10 @@
 
 ## Web project
 
-[link](http://oj.rish.com.tw/)
+* [link](http://oj.rish.com.tw/)
+
+by [rish](rish.com.tw)
 
 ![](https://i.imgur.com/oV0am8t.png)
 
-[src](https://github.com/rishteam/oj.git)
+* [source code](https://github.com/rishteam/oj.git)
